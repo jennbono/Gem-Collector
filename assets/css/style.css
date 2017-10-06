@@ -1,0 +1,19 @@
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
+body {
+	background: url("../images/asanoha-400px.png");
+}
+
+#logo {
+	margin: auto 0;
+}
+
+.game-rules {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	padding-left: 20px;
+	margin-top: 15px;
+}
